@@ -48,7 +48,7 @@ body {
   font-size: 0.9375rem;
   font-weight: 400;
   color: var(--grey-500);
-  background-color: var();
+  background-color: #FAFAFA;
   display: grid;
   min-height: 100vh;
   place-content: center;
